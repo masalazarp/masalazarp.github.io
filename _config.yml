@@ -3,4 +3,4 @@ logo: assets/logo.png
 description: Bienvenid@ a mi portafolio de proyectos de Análisis de Datos.
 show_downloads: false
 #google_analytics:
-theme: jekyll-theme-tale
+theme: jekyll-theme-minimal
