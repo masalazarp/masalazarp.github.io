@@ -10,7 +10,7 @@ A lo largo de mi trayectoria académica, laboral y autodidacta, me he especializ
 - Procesos ETL : **SQL / Python / Excel**
 - Visualización de datos: **Power BI / Tableau**
 
-### Habilidades blandas
+## Habilidades blandas
 Autodidácta | Trabajo en equipo | Atención a los detalles | Resolución de problemas | Organizada
 
-### Proyectos autónomos
+## Proyectos autónomos
