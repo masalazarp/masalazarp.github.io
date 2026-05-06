@@ -1,11 +1,16 @@
 # Acerca de mí
 
-Economista especializada en el análisis de datos e información para la generación de insumos clave para la toma de decisiones. A lo largo de mi trayectoria he trabajado en la extracción, organización y análisis de datos para generar insights accionables que conduzcan a la toma de decisiones estratégicas.
+Economista especializada en Análisis de Datos enfocada en la generación de insights accionables que impulsen la toma de decisiones estratégicas.
+
+A lo largo de mi trayectoria académica, laboral y autodidacta, me he especializado en los procesos de extracción, limpieza y manipulación de datos. Mi objetivo no es solo descubrir patrones ocultos e insumos clave en la información, sino también traducirlos en narrativas visuales dinámicas e interactivas.
 
 ¡Me apasiona contar historias a través de gráficas!
 
 ## Habilidades tecnológicas
-- Procesos ETL: **SQL / Python / Excel**
+- Procesos ETL : **SQL / Python / Excel**
 - Visualización de datos: **Power BI / Tableau**
+
+### Habilidades blandas
+Autodidácta | Trabajo en equipo | Atención a los detalles | Resolución de problemas | Organizada
 
 ### Proyectos autónomos
