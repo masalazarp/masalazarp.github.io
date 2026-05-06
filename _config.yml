@@ -1,6 +1,8 @@
 title: M. Andrea Salazar Perea
 logo: assets/logo.png
-description: Bienvenid@ a mi portafolio de proyectos de Análisis de Datos. \n**e-mail:** ma.salazarperea@gmail.com \n**LinkedIn:** linkedin.com/in/andrea-salazar-data
+description: Bienvenid@ a mi portafolio de proyectos de Análisis de Datos.
+- ma.salazarperea@gmail.com
+- linkedin.com/in/andrea-salazar-data
 show_downloads: false
 #google_analytics:
 theme: jekyll-theme-minimal
