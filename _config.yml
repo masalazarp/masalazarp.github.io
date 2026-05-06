@@ -3,4 +3,4 @@ logo: masalazarp.github.io/assets/Foto de perfil.png
 description: Bienvenid@ a mi portafolio de proyectos de Análisis de Datos.
 show_downloads: false
 #google_analytics:
-theme: chesterhow/tale
+theme: jekyll-theme-tale
