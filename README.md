@@ -15,7 +15,7 @@ Autodidacta | Trabajo en equipo | Atención a los detalles | Resolución de prob
 
 # Proyectos autónomos
 
-## Movilidad Urbana y Productividad Económica
+## 1. Movilidad Urbana y Productividad Económica
 
 ### Descripción del proyecto
 Este proyecto analiza la relación entre la movilidad urbana y la productividad económica en distintas ciudades del mundo, utilizando datos reales provenientes de fuentes públicas internacionales.
@@ -38,7 +38,20 @@ matplotlib
 seaborn
 
 ### Análisis visual
-![Boxplot](assets/boxplot.png)
-![Histograma](assets/histograma.png)
+
+#### Gráfica de dispersión  
 ![Scatterplot](assets/scatterplot.png)
+El gráfica de dispersión o heatmap muestra una relación positiva moderada entre el PIB per cápita (´gdp_per_capita´ y el retraso por tráfico (´jams_delay´). Sin embargo, la amplia dispersión de los datos y la presencia de valores atípicos sugieren que el nivel económico no es suficiente para explicar las condiciones de movilidad urbana.
+
+Por otr lado, los outliers visiables dicen algo interesante: algunas ciudades con altos niveles de PIB presentan congestión severa, como la Ciudad de México y en menor medida, Sao-Paulo, mientras que otras mantienen bajos niveles de tráfico y un PIB muy alto, como es el caso de Montevideo, lo que indica que factores como población, infraestructura y planeación urbana podrían tener una influencia más significativa.
+
+#### Mapa de calor
 ![HeatMap](assets/heatmap.png)
+En términos numéricos, las variables relacionadas con el tamaño poblacional muestran correlaciones más fuertes con los indicadores de congestión que la variable económica seleccionada, lo que indica que el tráfico urbano no parece ser el principal factor asociado al nivel económico.
+
+### Conclusión del proyecto
+- La relación entre movilidad urbana y productividad económica es positiva pero débil, lo que sugiere que existe una ligera tendencia a que ciudades con mayor PIB per cápita tengan también mayor congestión, pese a que la relación no es directa y mucho menos causal.
+- Adicionalmente, por medio del presente ejercicio, se obvió que el nivel de tráfico se explica mediante algunas de las variables seleccionadas en el dataset tomtom_traffic similares a ´jams_delay´, como se puede observar en el HeatMap. Sin embargo, el ejercicio abri+o un debate interesante sobre qué otras posibles causas económicas podrían estar afectando negativamente el congestionamiento vial.
+
+### Recomendaciones
+Debido a que el nivel de población está directamenre relacionado con la congestión vial y no al PIB per capital, el análisis del tráfico debe redirijirse hacia otras posibles causas del tráfico, como la infraestructura vial, el transporte público, la población, la inversión pública, etc.
