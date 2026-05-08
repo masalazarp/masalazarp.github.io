@@ -30,7 +30,7 @@ Las principales fuentes utilizadas fueron:
 Para el desarrollo del proyecto se implementó un flujo de trabajo tipo ETL (Extract, Transform, Load) y EDA (Exploratory Data Analysis), realizando procesos de extracción, limpieza, transformación, integración y análisis de datos.
 
 ### Herramientas y tecnologías utilizadas
-![etiquetast](assets/etiq_python.png)
+![etiquetast](assets/et_python.png)
 
 ### Análisis visual
 
