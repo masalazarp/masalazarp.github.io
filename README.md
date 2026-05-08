@@ -38,7 +38,7 @@ matplotlib
 seaborn
 
 ### Análisis visual
-![Boxplot]()
-![Histograma]()
-![Scatterplot]()
-![HeatMap]()
+![Boxplot](assets/boxplot.png)
+![Histograma](assets/histograma.png)
+![Scatterplot](assets/scatterplot.png)
+![HeatMap](assets/heatmap.png)
